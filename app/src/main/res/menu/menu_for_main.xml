@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="Search Data"
+        app:showAsAction="ifRoom|collapseActionView"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:id="@+id/searchingBtn"
+        app:actionViewClass="android.support.v7.widget.SearchView">
+    </item>
+    <item
+        android:title="Name Ascending"
+        android:id="@+id/nameAsc"
+        app:showAsAction="never">
+    </item>
+
+    <item
+        android:title="Name Descending"
+        android:id="@+id/nameDesc"
+        app:showAsAction="never">
+    </item>
+
+</menu>

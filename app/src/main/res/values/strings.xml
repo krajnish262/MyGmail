@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyGmail</string>
+    <string name="from">From</string>
+    <string name="subject">Subject</string>
+    <string name="message">Message</string>
+    <string name="date">Jan 21</string>
+    <string name="title_activity_trash">TrashActivity</string>
+
+</resources>
